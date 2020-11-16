@@ -7,7 +7,6 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-=======
 # basic-new
 Laravel crud basic proyect
 
